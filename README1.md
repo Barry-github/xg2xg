@@ -1,6 +1,6 @@
 A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)
 pull-requests very welcomed. __Please do not list any confidential projects!__
-
+https://mp.weixin.qq.com/s/eSm88FQDUcZjusodoavhwQ
 For a working example of (some) of these technologies integrated together, see:
 https://github.com/google/startup-os
 
